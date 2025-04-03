@@ -36,9 +36,7 @@ This project analyzes an auto sales dataset to uncover trends, patterns, and key
 
 ## 📊 Visualizations
 - Bar plots for categorical variables (`STATUS`, `PRODUCTLINE`).  
-- Histograms for numerical variables (`SALES`, `QUANTITYORDERED`).  
-- *Example*:  
-  ![Product Line Distribution](images/productline_dist.png) *(Replace with actual plot path)*  
+- Histograms for numerical variables (`SALES`, `QUANTITYORDERED`).
 
 ---
 
